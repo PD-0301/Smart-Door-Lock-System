@@ -15,13 +15,13 @@ The Smart Door Lock System leverages **RFID technology** and a **keypad interfac
 - **Auto Unlock Mechanism**: Seamless access for authorized users.
 
 ## Working Model 
-[Working Model](model.png)
+![Working Model](model.png)
 
 ## Circuit Diagram
-[Circuit diagram](circuitdiagram.png)
+![Circuit diagram](circuitdiagram.png)
 
 ## Flow Chart
-[Flow Chart](flowchart.png)
+![Flow Chart](flowchart.png)
 ## Components
 | Component              | Quantity | Description                              |
 |------------------------|----------|------------------------------------------|
